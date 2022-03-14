@@ -1,16 +1,13 @@
-### Hi there 👋
+## About Me
+- 😎 Waranat Suttikarn (Aom Wara)
+- 👨‍💻 Developer @ Admissions and Recruitment KMUTT
 
-<!--
-**I3acon/I3acon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Our Works
+- aradmission.kmutt.ac.th
+- e-borrow.kmutt.me
+- app.kmutt.me
+- amsplus.kmutt.me
+- newacis-cupt-map.kmutt.me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dev community 
+![์aomwara's github stats](https://github-readme-stats.vercel.app/api?username=aomwara)
